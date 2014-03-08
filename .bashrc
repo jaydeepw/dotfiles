@@ -20,6 +20,7 @@ alias ll='ls -l'
 alias ls='ls -F --color=auto'
 alias md='mkdir'
 alias rd='rmdir'
+alias suadb='python ~/Desktop/restart_adb.py'
 
 #Launch Android studio
 alias studio='cd ~/android-studio/bin && ./studio.sh'
